@@ -1,7 +1,7 @@
 Fuzzy Proxy
 ===========
 
-A proxy build specifically for fuzzing images. 
+A proxy built specifically for fuzzing images. 
 
 Wait. What?
 ===========
